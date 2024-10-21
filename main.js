@@ -10,6 +10,14 @@ if (stock === 'out of stockj'){
 purchaseB
 
 }
-sizing.addEventListener('change', (event) =>)
-
+sizing.addEventListener('change', (event) =>
+o)
 }
+
+
+
+//Task 4
+
+purchaseB.addEventListener("click", (event)=> {
+    alert(`Purchase complete`)
+})
